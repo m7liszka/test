@@ -1,9 +1,8 @@
-Praca dyplomowa Malgorzata Liszka
+Praca dyplomowa Malgorzata L.
++++++++++++++++++++++++++++++++++++
 
 
-
-very funny !
-
+very ~~funny !
 cos tam dodaje
 
 czegos sie nawet ucze....
